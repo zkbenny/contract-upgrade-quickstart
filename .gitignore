@@ -1,0 +1,6 @@
+.idea
+.upgradable
+artifacts-zk
+cache-zk
+node_modules
+.env
